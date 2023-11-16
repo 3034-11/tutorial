@@ -1,4 +1,4 @@
 # tutorial
 First Git Repository.
 <br>
-Author - Aniruddh Singh
+Author - Aniruddh S
